@@ -1,4 +1,5 @@
-About Dataset
+About Datase
+
 Machine failure prediction refers to the task of using machine learning and data analysis techniques to predict when a machine or equipment is likely to fail or experience a breakdown. By analyzing historical data and identifying patterns and indicators, machine failure prediction models can provide early warnings or alerts, enabling proactive maintenance and minimizing downtime.
 
 Here is an overview of the process of machine failure predictions:
